@@ -1,5 +1,5 @@
-[
-  "usuarios":
+{
+  "usuarios": [
     {
     "telefone": "557181701955",
     "nome": "Fulano",
@@ -8,4 +8,5 @@
     "aceite": "false",
     "confirmado": "false"
     }
-]
+  ]
+}
